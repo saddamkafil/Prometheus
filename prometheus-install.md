@@ -45,5 +45,5 @@ WantedBy=multi-user.target
 ```
 #### Step7:  To Start prometheus as service 
 ```
-sudo systemctl service start
+sudo service prometheus start
 ```
